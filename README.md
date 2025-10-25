@@ -133,7 +133,7 @@ async fetchProduct() {
 | FakeStore API | Sumber data produk |
 | JavaScript (ES6) | Logika aplikasi |
 | GitHub | Version control  |
-| GitHub | Version control  |
+| Vercel | Deployment  |
 ---
 
 ## 📸 Preview 
